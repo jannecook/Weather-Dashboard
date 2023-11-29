@@ -1,0 +1,16 @@
+header {
+    background-color: hsla(213, 51%, 42%, 0.502);
+}
+
+body {
+    background-color: rgba(115, 177, 238, 0.694);
+}
+
+btn {
+  border-radius: var(--border-radius);
+  color: var(--primary);
+  border: none;
+  outline: solid double black;
+  box-shadow: 3px 3px #060a876b;
+  display: inline-block;
+}
